@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feb85695-6a71-4485-a9dd-4ea453c2269f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HW/hw1/hw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/hw2/hw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/hw3/hw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/hw3b/hw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/hw4/hw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/hw5_1/hw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/hw5_2/hw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/q1/q1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/q2/q2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fcEEzuKitsvYhpVyn0PVewKGLN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HW/q2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kailo\PycharmProjects\KNU_OS\HW\q2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kailo\PycharmProjects\KNU_OS\HW" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feb85695-6a71-4485-a9dd-4ea453c2269f" name="Default Changelist" comment="" />
+      <created>1596508872210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596508872210</updated>
+    </task>
+    <servers />
+  </component>
+</project>
